@@ -61,19 +61,19 @@ Solar system bodies (the Moon's dark side, Jupiter's Red Spot, Saturn's hexagona
 
 ### Signal thread — stage by stage
 
-- **Stages 3–9 (Solar System):** Passengers experience the signal as intuition, dread, reverence, dreams. Plants respond physically — leaning, growing strangely. No one can explain it. Each stage gets one short passenger line (not explanation, just reaction).
+- **Stages 4–10 (Solar System):** Passengers experience the signal as intuition, dread, reverence, dreams. Plants respond physically — leaning, growing strangely. No one can explain it. Each stage gets one short passenger line (not explanation, just reaction).
 
-- **Stages 10–11 (Kuiper Belt, Oort Cloud):** Solar system ends. Passengers expect phenomena to fade — instead they intensify. First crack in the "it must be the planets" theory. Something is coming *from* the direction of travel.
+- **Stages 11–12 (Kuiper Belt, Oort Cloud):** Solar system ends. Passengers expect phenomena to fade — instead they intensify. First crack in the "it must be the planets" theory. Something is coming *from* the direction of travel.
 
-- **Stage 12 (Interstellar Void):** Deepest quiet. But the dreams become clearest here — passengers report the same dream: a green world, impossibly lush, warmth. The void has no interference. A passenger gives the signal a name. It sticks.
+- **Stage 13 (Interstellar Void):** Deepest quiet. But the dreams become clearest here — passengers report the same dream: a green world, impossibly lush, warmth. The void has no interference. A passenger gives the signal a name. It sticks.
 
-- **Stage 13 (Black Hole):** Time dilation distorts the signal into loops. Some passengers become convinced it's a *memory*, not a transmission. The offline-gains mechanic gets a narrative beat: passengers who sleep longer report longer, richer dreams.
+- **Stage 14 (Black Hole):** Time dilation distorts the signal into loops. Some passengers become convinced it's a *memory*, not a transmission. The offline-gains mechanic gets a narrative beat: passengers who sleep longer report longer, richer dreams.
 
-- **Stages 14–15:** Signal strengthens near the destination star. Scientifically-minded passengers begin trying to characterize it — correlates with ecosystem vitality. The more alive the ark, the more clearly it registers.
+- **Stages 15–16:** Signal strengthens near the destination star. Scientifically-minded passengers begin trying to characterize it — correlates with ecosystem vitality. The more alive the ark, the more clearly it registers.
 
-- **Stage 16 (Alien Encounter):** The reveal. The alien vessel is also following the signal — has been for longer, their ship even more alive. They call it "the green current." The destination planet is the oldest biosphere in this region of the galaxy, billions of years old, broadcasting for most of that time. They don't know if it's intentional. Life finds it, follows it, arrives. Passengers realize they were never lost — they were called. The alien crew has spiritual traditions around the signal developed over generations. Reverence and science turn out to be compatible responses to the same real thing.
+- **Stage 17 (Alien Encounter):** The reveal. The alien vessel is also following the signal — has been for longer, their ship even more alive. They call it "the green current." The destination planet is the oldest biosphere in this region of the galaxy, billions of years old, broadcasting for most of that time. They don't know if it's intentional. Life finds it, follows it, arrives. Passengers realize they were never lost — they were called. The alien crew has spiritual traditions around the signal developed over generations. Reverence and science turn out to be compatible responses to the same real thing.
 
-- **Stages 17–18:** Signal strong enough that plants visibly orient toward the destination star. Passengers stop dreaming and start expecting. Tone shifts from wonder to quiet, confident arrival.
+- **Stages 18–19:** Signal strong enough that plants visibly orient toward the destination star. Passengers stop dreaming and start expecting. Tone shifts from wonder to quiet, confident arrival.
 
 ---
 
@@ -115,21 +115,36 @@ Each stage introduces a problem that **slows or halts progress** until resolved.
 
 ## Voyage Stages
 
-### Stage 1 — Launch
+### Stage 1 — Pre-Launch Preparation
+
+Earth. The ark is being built. Over days, hull sections are welded into place, specimen bays are stocked, fuel and oxygen tanks are filled, and passengers arrive and settle in. Everything the voyage needs has to be in place before the hatch locks. Tone: calm, methodical, the last unhurried days before everything begins.
+- **Resource unlock order:**
+  1. Money — the first and only resource initially; everything is purchased
+  2. Ship construction % — appears when building begins
+  3. People count — appears when recruitment opens
+  4. Species count — appears when specimen collection opens
+  5. People qualities (cohesion, training %) — appear once a crew exists and deeper management unlocks
+  6. Species qualities (genetic diversity, fitness for travel) — appear once a collection exists
+  7. Fuel and oxygen — appear last, as launch approaches
+- **No failure state.** Resources are abundant; nothing is scarce; nothing can go wrong. Each task completes in turn as the player learns the controls. The stage ends when the checklist is done.
+
+---
+
+### Stage 2 — Launch
 The ark lifts off from Earth. Atmospheric drag burns fuel fast; escape velocity must be reached before reserves run dry. Tone: chaotic, exhilarating, hopeful.
 - **Complication:** fuel consumption outpaces production — must reach escape velocity threshold before reserves deplete
 - **Silver lining:** Earth's atmosphere is abundant — initial stockpiles of oxygen and water loaded at no cost, giving the ecosystem a head start
 
 ---
 
-### Stage 2 — Earth Orbit
+### Stage 3 — Earth Orbit
 First hours in space. Systems stabilise, microgravity stresses early biological modules. Full, unfiltered sunlight — the best energy income of the entire voyage.
 - **Complication:** microgravity disrupts root systems and fluid circulation — first ecosystem module must reach a stability threshold before departure
 - **Silver lining:** no atmosphere to block the sun; solar energy income is at its peak, never this high again
 
 ---
 
-### Stage 3 — The Moon
+### Stage 4 — The Moon
 First milestone. A lunar flyby — humanity's oldest landmark drifting past the viewports. Passengers grow quiet.
 - **Complication:** lunar gravity pulls at the trajectory — propulsion must be adjusted to a threshold to stay on course
 - **Silver lining:** probes to the lunar surface yield helium-3 and rare minerals; an early boost to propulsion research
@@ -137,7 +152,7 @@ First milestone. A lunar flyby — humanity's oldest landmark drifting past the 
 
 ---
 
-### Stage 4 — Mars
+### Stage 5 — Mars
 The first truly alien world. Reddish light shifts the spectrum; plants tuned for Earth's yellow sun underperform.
 - **Complication:** plant energy output drops in red-shifted light — adapt species or augment lighting to restore production
 - **Silver lining:** Martian atmosphere is rich in CO2; probes return iron-rich soil that unlocks new plant species
@@ -145,7 +160,7 @@ The first truly alien world. Reddish light shifts the spectrum; plants tuned for
 
 ---
 
-### Stage 5 — Asteroid Belt
+### Stage 6 — Asteroid Belt
 The solar system's scrapyard. Rocky debris pings off the hull constantly. Not catastrophic — but relentless.
 - **Complication:** hull integrity degrades steadily; repair rate must exceed damage rate to push through
 - **Silver lining:** mineral-rich asteroids and water-bearing carbonaceous rocks — first major haul of raw materials
@@ -153,7 +168,7 @@ The solar system's scrapyard. Rocky debris pings off the hull constantly. Not ca
 
 ---
 
-### Stage 6 — Jupiter
+### Stage 7 — Jupiter
 Enormous. The gravity well distorts the flight path; radiation belts lash biological systems. Passengers press against the viewports regardless.
 - **Complication:** radiation damages species and slows growth; gravitational drag bleeds speed — shielding and thrust must hit thresholds
 - **Silver lining:** Jupiter's magnetosphere generates harvestable electromagnetic energy; a gravity-assist slingshot delivers a permanent speed boost on exit
@@ -161,7 +176,7 @@ Enormous. The gravity well distorts the flight path; radiation belts lash biolog
 
 ---
 
-### Stage 7 — Saturn
+### Stage 8 — Saturn
 The rings are beautiful and dangerous in equal measure. Ice particles drift into vents; the ark glitters.
 - **Complication:** ring debris causes minor but persistent hull damage; ice infiltration stresses mechanical systems
 - **Silver lining:** the rings are almost pure water ice — ring harvesting fills water reserves faster than any prior stage; passenger morale peaks here
@@ -169,7 +184,7 @@ The rings are beautiful and dangerous in equal measure. Ice particles drift into
 
 ---
 
-### Stage 8 — Uranus
+### Stage 9 — Uranus
 Cold, dim, tilted at a strange angle. The sun is already small. Species begin to struggle with the temperature drop.
 - **Complication:** dropping temperatures stress biological systems — cold-adapted species must be cultivated to a threshold
 - **Silver lining:** the first cold-adapted species discovered here are uniquely efficient; methane ice harvested for fuel
@@ -177,7 +192,7 @@ Cold, dim, tilted at a strange angle. The sun is already small. Species begin to
 
 ---
 
-### Stage 9 — Neptune
+### Stage 10 — Neptune
 Near-dark. The sun is a bright star, not a disc. Storm systems inside the planet generate eerie interference. The last planet.
 - **Complication:** solar energy income drops sharply; storm interference disrupts systems — low-light species must cover the shortfall
 - **Silver lining:** pressurised conditions favour aquatic species that thrive nowhere else; a Triton flyby yields rare minerals and a quiet moment of reflection — the last named place before the unknown
@@ -187,11 +202,11 @@ Near-dark. The sun is a bright star, not a disc. Storm systems inside the planet
 
 ---
 
-> **Note:** Stages 10 and beyond are work in progress — descriptions are placeholders and need to be expanded with the same level of detail as stages 1–9.
+> **Note:** Stages 11 and beyond are work in progress — descriptions are placeholders and need to be expanded with the same level of detail as stages 1–10.
 
 ---
 
-### Stage 10 — Kuiper Belt
+### Stage 11 — Kuiper Belt
 A sparse field of icy dwarf planets and frozen debris. Pluto drifts past — small, cold, familiar from old photographs. The home system ends here.
 - **Complication:** navigation through dense icy debris accumulates hull stress; repair must keep pace
 - **Silver lining:** water ice and organic compounds in abundance; the emotional farewell to the solar system prompts a passenger log entry that unlocks a permanent ecosystem bonus
@@ -199,7 +214,7 @@ A sparse field of icy dwarf planets and frozen debris. Pluto drifts past — sma
 
 ---
 
-### Stage 11 — Oort Cloud
+### Stage 12 — Oort Cloud
 Ice and rocks, thicker now. The hull takes real punishment. But the debris brings gifts.
 - **Complication:** hull damage accumulates and slows travel — hull repair systems must reach a threshold
 - **Silver lining:** ice chunks harvested for **water**, rocky debris yields **minerals**
@@ -207,7 +222,7 @@ Ice and rocks, thicker now. The hull takes real punishment. But the debris bring
 
 ---
 
-### Stage 12 — Interstellar Void
+### Stage 13 — Interstellar Void
 Starlight fades to near zero. Energy income collapses. Plants struggle, engines slow. Eerily quiet.
 - **Complication:** energy shortage stalls progress — cultivate low-light and radiation-harvesting species
 - **Silver lining:** cosmic radiation at low levels is harvestable by adapted species — forces a productive roster rethink
@@ -215,7 +230,7 @@ Starlight fades to near zero. Energy income collapses. Plants struggle, engines 
 
 ---
 
-### Stage 13 — Black Hole Proximity
+### Stage 14 — Black Hole Proximity
 Immense gravity slows travel dramatically. Time itself feels different.
 - **Complication:** gravitational drag halts progress — harvest enough accretion disk energy to power through
 - **Silver lining:** accretion disk provides the richest energy harvest of the journey; gravitational lensing triggers **species mutations** exclusive to this stage; slingshot exit gives a permanent speed boost
@@ -224,7 +239,7 @@ Immense gravity slows travel dramatically. Time itself feels different.
 
 ---
 
-### Stage 14 — Pulsar Proximity
+### Stage 15 — Pulsar Proximity
 A rotating neutron star blasts periodic radiation pulses. Quiet, then blinding, then quiet again.
 - **Complication:** unshielded pulses damage biological systems — build shielding to a threshold
 - **Silver lining:** enormous energy bursts harvestable between pulses; introduces a timing mechanic — prep during quiet, harvest during pulse
@@ -232,7 +247,7 @@ A rotating neutron star blasts periodic radiation pulses. Quiet, then blinding, 
 
 ---
 
-### Stage 15 — Asteroid Field
+### Stage 16 — Asteroid Field
 Denser and more dangerous than anything in the home system. The hull screams.
 - **Complication:** heavy hull damage accumulates rapidly — hull integrity and repair rate must both exceed thresholds
 - **Silver lining:** rich rare minerals unlock the most powerful propulsion upgrades in the game
@@ -240,16 +255,16 @@ Denser and more dangerous than anything in the home system. The hull screams.
 
 ---
 
-### Stage 16 — Alien Encounter
+### Stage 17 — Alien Encounter
 First contact. A vessel travelling the opposite direction — curious, not hostile. It barely looks like a ship either.
 - **Complication:** communication and trust-building takes time and resources — complete enough exchanges to unlock full benefits
-- **Silver lining:** trade resources; exchange species (alien plants adapted to the destination star's wavelength — exactly what Stage 18 needs); learn propulsion techniques that unlock a new engine tier
+- **Silver lining:** trade resources; exchange species (alien plants adapted to the destination star's wavelength — exactly what Stage 19 needs); learn propulsion techniques that unlock a new engine tier
 - The emotional centrepiece of the game. The aliens may not recognise the ark as a ship at all — it looks too alive.
 - **Signal thread:** the reveal — the alien vessel is also following the signal; they call it "the green current"; the destination planet is billions of years old and has been broadcasting for most of that time; passengers realize they were never lost — they were called; the alien crew has spiritual traditions around the signal developed over generations; reverence and science turn out to be compatible responses to the same real thing
 
 ---
 
-### Stage 17 — Hard X-Ray Zone
+### Stage 18 — Hard X-Ray Zone
 High-energy radiation from the destination star's outer halo. Species go dormant. The ecosystem goes quiet right before the finish line.
 - **Complication:** unprotected species go dormant, energy production drops — cultivate enough x-ray-resistant species to restore output
 - **Silver lining:** x-ray-resistant species are the most energy-efficient in the game — a painful but rewarding final overhaul
@@ -257,7 +272,7 @@ High-energy radiation from the destination star's outer halo. Species go dormant
 
 ---
 
-### Stage 18 — New Star Approach
+### Stage 19 — New Star Approach
 A different sun. A different light. Old species underperform; alien-traded and x-ray-adapted species come into their own.
 - **Complication:** energy production falls as familiar plants struggle with the new wavelength
 - **Silver lining:** the alien species traded in Stage 16 now thrive; engines peak on abundant new energy; the ark transforms one last time
@@ -281,7 +296,7 @@ The living ark touches down. It is not a spacecraft that lands — it is a livin
 - Name for the signal — "the green current" is a working name; final wording TBD
 - Exact passenger lines for each stage of the signal thread
 - Whether the aliens explicitly broke their own loop or not
-- Stages 10–18 narrative texture — all stages now have signal thread notes but most need the same scene-setting prose as stages 1–9
+- Stages 11–19 narrative texture — all stages now have signal thread notes but most need the same scene-setting prose as stages 1–10
 - **Who is the player?** What is their role and identity — are they a captain, an AI, the ship itself, something else? How are they related to the human passengers, and how does that relationship evolve as the ark transforms from machine to living thing?
 - **Generational voyage:** the journey spans far more than a human lifetime — there should be multiple generations born, living, and dying aboard. How is this represented? Does the player watch generations pass? Do passengers age visibly? Is generational continuity part of the emotional arc?
 - **Player and time scale:** years or thousands of years pass during the voyage. How does the player experience this? Options include hibernation between active phases, an in-game time-acceleration mechanic, the player being something non-human that doesn't age (the ship's AI, the ecosystem itself), or simply abstracting time away so stages feel like chapters rather than literal durations.
