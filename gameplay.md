@@ -32,6 +32,29 @@ Minimal for game #1. Maybe one small random event (a windfall, a setback) every 
 
 **Clear finale** recommended for game #1. Ends with a satisfying surprise, leaves players wanting more. Endless games are harder to pace and easier to abandon.
 
+### The Tuning Finale
+
+The finale is not passive. The player must tune the emitted signal — the one meaningful manual action at the very end of an otherwise idle game.
+
+- The received signal has a "shape" visible in the signal indicator throughout the game, so matching or diverging from it is legible without instruction.
+- **Match exactly** → the loop closes; the signal goes out unchanged; somewhere, another civilisation will hear it and follow; the cycle continues.
+- **Tune it differently** → the loop breaks; humanity sends something new; the cycle ends. This is the "happy ending" — breaking the loop is the rewarded choice.
+
+The resolution is earned by choosing it, not just arriving at it. The alien encounter can hint at this choice — whether their own civilisation broke their loop is left as a quiet open question.
+
+---
+
+## Signal Indicator
+
+A persistent signal indicator — small, always visible, not explained when it first appears.
+
+- **Early game:** barely registers.
+- **As ecosystem grows:** strengthens visibly; players notice the correlation before anyone names it.
+- **Alien encounter (Stage 16):** the indicator visually syncs with the alien ship's; no text needed.
+- **Finale:** indicator flips direction (receiving → emitting); during tuning, it shows the shape being adjusted; on completion it transforms or resolves.
+
+By the time the alien encounter confirms the explanation, players have already figured it out themselves from watching the indicator. The dialogue confirms rather than informs.
+
 ---
 
 ## Multiplayer
@@ -54,3 +77,5 @@ Capped offline progress (e.g. max 8–12 hours of gains). Easier to balance than
 - Species list — which species, what do they do mechanically?
 - Upgrade structure — tech tree shape, cost curves
 - Prestige mechanic — defer to game #2 or include in game #1?
+- Signal indicator visual design — what does "shape" look like concretely?
+- Tuning interface design — how does the player adjust the shape at the finale?

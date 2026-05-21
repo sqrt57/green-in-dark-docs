@@ -53,6 +53,54 @@ The ship carries human passengers throughout the voyage. They are present and re
 
 ---
 
+## The Green Current
+
+The destination planet is alive — densely, anciently alive — and it broadcasts. A biological resonance ("the green current") that all sufficiently complex living systems can faintly detect. The more alive the ark becomes, the stronger its reception. Growing the ecosystem isn't just survival — it's building a better antenna.
+
+Solar system bodies (the Moon's dark side, Jupiter's Red Spot, Saturn's hexagonal storm) are not the source — they amplify and focus the signal the way a lens focuses light.
+
+### Signal thread — stage by stage
+
+- **Stages 3–9 (Solar System):** Passengers experience the signal as intuition, dread, reverence, dreams. Plants respond physically — leaning, growing strangely. No one can explain it. Each stage gets one short passenger line (not explanation, just reaction).
+
+- **Stages 10–11 (Kuiper Belt, Oort Cloud):** Solar system ends. Passengers expect phenomena to fade — instead they intensify. First crack in the "it must be the planets" theory. Something is coming *from* the direction of travel.
+
+- **Stage 12 (Interstellar Void):** Deepest quiet. But the dreams become clearest here — passengers report the same dream: a green world, impossibly lush, warmth. The void has no interference. A passenger gives the signal a name. It sticks.
+
+- **Stage 13 (Black Hole):** Time dilation distorts the signal into loops. Some passengers become convinced it's a *memory*, not a transmission. The offline-gains mechanic gets a narrative beat: passengers who sleep longer report longer, richer dreams.
+
+- **Stages 14–15:** Signal strengthens near the destination star. Scientifically-minded passengers begin trying to characterize it — correlates with ecosystem vitality. The more alive the ark, the more clearly it registers.
+
+- **Stage 16 (Alien Encounter):** The reveal. The alien vessel is also following the signal — has been for longer, their ship even more alive. They call it "the green current." The destination planet is the oldest biosphere in this region of the galaxy, billions of years old, broadcasting for most of that time. They don't know if it's intentional. Life finds it, follows it, arrives. Passengers realize they were never lost — they were called. The alien crew has spiritual traditions around the signal developed over generations. Reverence and science turn out to be compatible responses to the same real thing.
+
+- **Stages 17–18:** Signal strong enough that plants visibly orient toward the destination star. Passengers stop dreaming and start expecting. Tone shifts from wonder to quiet, confident arrival.
+
+---
+
+## The Bootstrap Paradox
+
+At landfall, the ark doesn't just receive the signal — **it becomes a source**. The destination planet is not the only broadcaster; the ark joins the chorus. Another living world added to the broadcast.
+
+Taking this further: **the signal has no origin**. It always existed because the ark always sent it. Humanity was called by itself, from the future, across space. The aliens following it, the ancient biosphere, the billions of years of broadcast — all downstream of this moment. The player's landfall is simultaneously the end and the beginning of everything that caused it.
+
+The alien encounter gains a new layer: their records of the signal may predate Earth's biosphere. A detail that lands as quiet wonder.
+
+---
+
+## Narrative Delivery Principle
+
+**The plot should be delivered interactively, through mechanics and feedback statistics. Idle game players read numbers the way others read prose.**
+
+- **Statistics as narrative.** Signal strength is the main example but the pattern applies everywhere. Hull integrity trending down tells the transformation story. The ratio of biological to mechanical systems is the arc of the whole game, visible at a glance. Species count is the ecosystem's biography. Players who never read a single passenger line still experience the story through their dashboard.
+
+- **Mechanics as plot delivery.** The tuning finale is the clearest example — the player *performs* the resolution rather than watching it. Smaller moments follow the same logic: adapting species for red-shifted Martian light isn't just a gameplay challenge, it's the story of the ecosystem learning a foreign sun.
+
+- **Passenger lines as captions, not exposition.** They label what the player already noticed in the numbers. One short line per stage for the signal thread — not explanation, just reaction. "The plants are doing it again." / "I dreamed about it." / "It got louder when we passed Jupiter, not quieter."
+
+- **Statistics that change meaning.** Early game, hull integrity is engineering. Late game, it's biology. The same number means something different at the end — and players who've been watching it the whole time feel that shift.
+
+---
+
 ## The complication model
 
 Each stage introduces a problem that **slows or halts progress** until resolved. No permadeath, no catastrophic failure — just friction and a clear goal to achieve before moving on. Slow is the punishment, not death. Players always know what they're working toward.
@@ -83,7 +131,7 @@ First hours in space. Systems stabilise, microgravity stresses early biological 
 First milestone. A lunar flyby — humanity's oldest landmark drifting past the viewports. Passengers grow quiet.
 - **Complication:** lunar gravity pulls at the trajectory — propulsion must be adjusted to a threshold to stay on course
 - **Silver lining:** probes to the lunar surface yield helium-3 and rare minerals; an early boost to propulsion research
-- **Note:** paranormal/spiritual angle to develop — unexplained signals from the dark side, lights that have no source
+- **Signal thread:** passengers experience first unexplained intuitions; lights with no source on the dark side; plants lean faintly toward the Moon; no one mentions it aloud yet
 
 ---
 
@@ -91,7 +139,7 @@ First milestone. A lunar flyby — humanity's oldest landmark drifting past the 
 The first truly alien world. Reddish light shifts the spectrum; plants tuned for Earth's yellow sun underperform.
 - **Complication:** plant energy output drops in red-shifted light — adapt species or augment lighting to restore production
 - **Silver lining:** Martian atmosphere is rich in CO2; probes return iron-rich soil that unlocks new plant species
-- **Note:** paranormal/spiritual angle to develop — probe footage shows patterns in the dust that shouldn't be there; passengers disagree about what they're seeing
+- **Signal thread:** probe footage shows patterns in the dust that shouldn't be there; passengers disagree about what they're seeing; plants lean slightly toward the planet
 
 ---
 
@@ -99,7 +147,7 @@ The first truly alien world. Reddish light shifts the spectrum; plants tuned for
 The solar system's scrapyard. Rocky debris pings off the hull constantly. Not catastrophic — but relentless.
 - **Complication:** hull integrity degrades steadily; repair rate must exceed damage rate to push through
 - **Silver lining:** mineral-rich asteroids and water-bearing carbonaceous rocks — first major haul of raw materials
-- **Note:** paranormal/spiritual angle to develop — certain asteroids emit resonance frequencies that affect plant growth in ways that can't be explained; passengers report unusually vivid dreams
+- **Signal thread:** certain asteroids emit resonance frequencies that affect plant growth unexplainably; passengers report unusually vivid dreams
 
 ---
 
@@ -107,7 +155,7 @@ The solar system's scrapyard. Rocky debris pings off the hull constantly. Not ca
 Enormous. The gravity well distorts the flight path; radiation belts lash biological systems. Passengers press against the viewports regardless.
 - **Complication:** radiation damages species and slows growth; gravitational drag bleeds speed — shielding and thrust must hit thresholds
 - **Silver lining:** Jupiter's magnetosphere generates harvestable electromagnetic energy; a gravity-assist slingshot delivers a permanent speed boost on exit
-- **Note:** paranormal/spiritual angle to develop — the Great Red Spot pulses in a rhythm that matches no known atmospheric model; some passengers claim it responds to the ecosystem
+- **Signal thread:** the Great Red Spot pulses in a rhythm matching no known atmospheric model; some passengers claim it responds to the ecosystem
 
 ---
 
@@ -115,7 +163,7 @@ Enormous. The gravity well distorts the flight path; radiation belts lash biolog
 The rings are beautiful and dangerous in equal measure. Ice particles drift into vents; the ark glitters.
 - **Complication:** ring debris causes minor but persistent hull damage; ice infiltration stresses mechanical systems
 - **Silver lining:** the rings are almost pure water ice — ring harvesting fills water reserves faster than any prior stage; passenger morale peaks here
-- **Note:** paranormal/spiritual angle to develop — the hexagonal polar storm is too perfect; passengers begin leaving offerings at viewports; a quiet religiosity takes hold on the ship
+- **Signal thread:** the hexagonal polar storm is too perfect; passengers begin leaving offerings at viewports; a quiet religiosity takes hold on the ship
 
 ---
 
@@ -123,7 +171,7 @@ The rings are beautiful and dangerous in equal measure. Ice particles drift into
 Cold, dim, tilted at a strange angle. The sun is already small. Species begin to struggle with the temperature drop.
 - **Complication:** dropping temperatures stress biological systems — cold-adapted species must be cultivated to a threshold
 - **Silver lining:** the first cold-adapted species discovered here are uniquely efficient; methane ice harvested for fuel
-- **Note:** paranormal/spiritual angle to develop — the extreme axial tilt creates lighting conditions that trigger unusual plant behaviour; passengers experience time disorientation; something about this place feels sideways in more than one sense
+- **Signal thread:** unusual plant behaviour in the tilted light; passengers experience time disorientation; something feels sideways in more than one sense
 
 ---
 
@@ -131,7 +179,7 @@ Cold, dim, tilted at a strange angle. The sun is already small. Species begin to
 Near-dark. The sun is a bright star, not a disc. Storm systems inside the planet generate eerie interference. The last planet.
 - **Complication:** solar energy income drops sharply; storm interference disrupts systems — low-light species must cover the shortfall
 - **Silver lining:** pressurised conditions favour aquatic species that thrive nowhere else; a Triton flyby yields rare minerals and a quiet moment of reflection — the last named place before the unknown
-- **Note:** paranormal/spiritual angle to develop — Neptune's storms generate infrasound that affects passenger dreams; the ark's plants lean toward the planet as they would toward light; the spiritual thread that began at the Moon reaches a quiet peak here before the void
+- **Signal thread:** Neptune's storms generate infrasound that affects passenger dreams; plants lean toward the planet as they would toward light; the thread that began at the Moon reaches a quiet peak before the void
 
 ---
 
@@ -145,6 +193,7 @@ Near-dark. The sun is a bright star, not a disc. Storm systems inside the planet
 A sparse field of icy dwarf planets and frozen debris. Pluto drifts past — small, cold, familiar from old photographs. The home system ends here.
 - **Complication:** navigation through dense icy debris accumulates hull stress; repair must keep pace
 - **Silver lining:** water ice and organic compounds in abundance; the emotional farewell to the solar system prompts a passenger log entry that unlocks a permanent ecosystem bonus
+- **Signal thread:** passengers expect the phenomena to fade as the solar system ends — instead they intensify; the "it must be the planets" theory begins to crack
 
 ---
 
@@ -152,6 +201,7 @@ A sparse field of icy dwarf planets and frozen debris. Pluto drifts past — sma
 Ice and rocks, thicker now. The hull takes real punishment. But the debris brings gifts.
 - **Complication:** hull damage accumulates and slows travel — hull repair systems must reach a threshold
 - **Silver lining:** ice chunks harvested for **water**, rocky debris yields **minerals**
+- **Signal thread:** intensification continues; something is clearly coming *from* the direction of travel, not from behind
 
 ---
 
@@ -159,6 +209,7 @@ Ice and rocks, thicker now. The hull takes real punishment. But the debris bring
 Starlight fades to near zero. Energy income collapses. Plants struggle, engines slow. Eerily quiet.
 - **Complication:** energy shortage stalls progress — cultivate low-light and radiation-harvesting species
 - **Silver lining:** cosmic radiation at low levels is harvestable by adapted species — forces a productive roster rethink
+- **Signal thread:** deepest quiet but clearest dreams — passengers report the same dream independently: a green world, impossibly lush, warmth; a passenger gives the signal a name; it sticks
 
 ---
 
@@ -167,6 +218,7 @@ Immense gravity slows travel dramatically. Time itself feels different.
 - **Complication:** gravitational drag halts progress — harvest enough accretion disk energy to power through
 - **Silver lining:** accretion disk provides the richest energy harvest of the journey; gravitational lensing triggers **species mutations** exclusive to this stage; slingshot exit gives a permanent speed boost
 - **Special mechanic:** time dilation — offline gains are *increased* during this stage (time outside moves faster near the black hole)
+- **Signal thread:** time dilation distorts the signal into loops; some passengers become convinced it's a *memory*, not a transmission; passengers who sleep longer report longer, richer dreams
 
 ---
 
@@ -174,6 +226,7 @@ Immense gravity slows travel dramatically. Time itself feels different.
 A rotating neutron star blasts periodic radiation pulses. Quiet, then blinding, then quiet again.
 - **Complication:** unshielded pulses damage biological systems — build shielding to a threshold
 - **Silver lining:** enormous energy bursts harvestable between pulses; introduces a timing mechanic — prep during quiet, harvest during pulse
+- **Signal thread:** scientifically-minded passengers begin trying to characterize the signal; it correlates with ecosystem vitality — the more alive the ark, the more clearly it registers
 
 ---
 
@@ -181,6 +234,7 @@ A rotating neutron star blasts periodic radiation pulses. Quiet, then blinding, 
 Denser and more dangerous than anything in the home system. The hull screams.
 - **Complication:** heavy hull damage accumulates rapidly — hull integrity and repair rate must both exceed thresholds
 - **Silver lining:** rich rare minerals unlock the most powerful propulsion upgrades in the game
+- **Signal thread:** signal strengthens further; passengers stop trying to explain it and start listening
 
 ---
 
@@ -189,6 +243,7 @@ First contact. A vessel travelling the opposite direction — curious, not hosti
 - **Complication:** communication and trust-building takes time and resources — complete enough exchanges to unlock full benefits
 - **Silver lining:** trade resources; exchange species (alien plants adapted to the destination star's wavelength — exactly what Stage 18 needs); learn propulsion techniques that unlock a new engine tier
 - The emotional centrepiece of the game. The aliens may not recognise the ark as a ship at all — it looks too alive.
+- **Signal thread:** the reveal — the alien vessel is also following the signal; they call it "the green current"; the destination planet is billions of years old and has been broadcasting for most of that time; passengers realize they were never lost — they were called; the alien crew has spiritual traditions around the signal developed over generations; reverence and science turn out to be compatible responses to the same real thing
 
 ---
 
@@ -196,6 +251,7 @@ First contact. A vessel travelling the opposite direction — curious, not hosti
 High-energy radiation from the destination star's outer halo. Species go dormant. The ecosystem goes quiet right before the finish line.
 - **Complication:** unprotected species go dormant, energy production drops — cultivate enough x-ray-resistant species to restore output
 - **Silver lining:** x-ray-resistant species are the most energy-efficient in the game — a painful but rewarding final overhaul
+- **Signal thread:** plants visibly orient toward the destination star; passengers stop dreaming and start expecting
 
 ---
 
@@ -203,8 +259,24 @@ High-energy radiation from the destination star's outer halo. Species go dormant
 A different sun. A different light. Old species underperform; alien-traded and x-ray-adapted species come into their own.
 - **Complication:** energy production falls as familiar plants struggle with the new wavelength
 - **Silver lining:** the alien species traded in Stage 16 now thrive; engines peak on abundant new energy; the ark transforms one last time
+- **Signal thread:** tone shifts from wonder to quiet, confident arrival
 
 ---
 
 ### Finale — Landfall
-Landing sequence triggers. The living ark touches down. First seedling in alien soil — or perhaps the ark itself takes root. End screen.
+
+The landing sequence begins. Before touchdown, the player performs one deliberate action: **tune the emitted signal** (see Gameplay Specification for mechanic detail).
+
+- **Match the received signal exactly** — the loop closes; the signal goes out unchanged; somewhere, another civilisation will hear it and follow; the cycle continues
+- **Tune it differently** — the loop breaks; humanity sends something new; the cycle ends; this is the game's "happy ending" — breaking the loop is the rewarded choice
+
+The living ark touches down. It is not a spacecraft that lands — it is a living thing. The ark itself is the seed. End screen.
+
+---
+
+## Open Questions
+
+- Name for the signal — "the green current" is a working name; final wording TBD
+- Exact passenger lines for each stage of the signal thread
+- Whether the aliens explicitly broke their own loop or not
+- Stages 10–18 narrative texture — all stages now have signal thread notes but most need the same scene-setting prose as stages 1–9
