@@ -83,6 +83,7 @@ First hours in space. Systems stabilise, microgravity stresses early biological 
 First milestone. A lunar flyby — humanity's oldest landmark drifting past the viewports. Passengers grow quiet.
 - **Complication:** lunar gravity pulls at the trajectory — propulsion must be adjusted to a threshold to stay on course
 - **Silver lining:** probes to the lunar surface yield helium-3 and rare minerals; an early boost to propulsion research
+- **Note:** paranormal/spiritual angle to develop — unexplained signals from the dark side, lights that have no source
 
 ---
 
@@ -90,6 +91,7 @@ First milestone. A lunar flyby — humanity's oldest landmark drifting past the 
 The first truly alien world. Reddish light shifts the spectrum; plants tuned for Earth's yellow sun underperform.
 - **Complication:** plant energy output drops in red-shifted light — adapt species or augment lighting to restore production
 - **Silver lining:** Martian atmosphere is rich in CO2; probes return iron-rich soil that unlocks new plant species
+- **Note:** paranormal/spiritual angle to develop — probe footage shows patterns in the dust that shouldn't be there; passengers disagree about what they're seeing
 
 ---
 
@@ -97,6 +99,7 @@ The first truly alien world. Reddish light shifts the spectrum; plants tuned for
 The solar system's scrapyard. Rocky debris pings off the hull constantly. Not catastrophic — but relentless.
 - **Complication:** hull integrity degrades steadily; repair rate must exceed damage rate to push through
 - **Silver lining:** mineral-rich asteroids and water-bearing carbonaceous rocks — first major haul of raw materials
+- **Note:** paranormal/spiritual angle to develop — certain asteroids emit resonance frequencies that affect plant growth in ways that can't be explained; passengers report unusually vivid dreams
 
 ---
 
@@ -104,6 +107,7 @@ The solar system's scrapyard. Rocky debris pings off the hull constantly. Not ca
 Enormous. The gravity well distorts the flight path; radiation belts lash biological systems. Passengers press against the viewports regardless.
 - **Complication:** radiation damages species and slows growth; gravitational drag bleeds speed — shielding and thrust must hit thresholds
 - **Silver lining:** Jupiter's magnetosphere generates harvestable electromagnetic energy; a gravity-assist slingshot delivers a permanent speed boost on exit
+- **Note:** paranormal/spiritual angle to develop — the Great Red Spot pulses in a rhythm that matches no known atmospheric model; some passengers claim it responds to the ecosystem
 
 ---
 
@@ -111,6 +115,7 @@ Enormous. The gravity well distorts the flight path; radiation belts lash biolog
 The rings are beautiful and dangerous in equal measure. Ice particles drift into vents; the ark glitters.
 - **Complication:** ring debris causes minor but persistent hull damage; ice infiltration stresses mechanical systems
 - **Silver lining:** the rings are almost pure water ice — ring harvesting fills water reserves faster than any prior stage; passenger morale peaks here
+- **Note:** paranormal/spiritual angle to develop — the hexagonal polar storm is too perfect; passengers begin leaving offerings at viewports; a quiet religiosity takes hold on the ship
 
 ---
 
@@ -118,6 +123,7 @@ The rings are beautiful and dangerous in equal measure. Ice particles drift into
 Cold, dim, tilted at a strange angle. The sun is already small. Species begin to struggle with the temperature drop.
 - **Complication:** dropping temperatures stress biological systems — cold-adapted species must be cultivated to a threshold
 - **Silver lining:** the first cold-adapted species discovered here are uniquely efficient; methane ice harvested for fuel
+- **Note:** paranormal/spiritual angle to develop — the extreme axial tilt creates lighting conditions that trigger unusual plant behaviour; passengers experience time disorientation; something about this place feels sideways in more than one sense
 
 ---
 
@@ -125,6 +131,13 @@ Cold, dim, tilted at a strange angle. The sun is already small. Species begin to
 Near-dark. The sun is a bright star, not a disc. Storm systems inside the planet generate eerie interference. The last planet.
 - **Complication:** solar energy income drops sharply; storm interference disrupts systems — low-light species must cover the shortfall
 - **Silver lining:** pressurised conditions favour aquatic species that thrive nowhere else; a Triton flyby yields rare minerals and a quiet moment of reflection — the last named place before the unknown
+- **Note:** paranormal/spiritual angle to develop — Neptune's storms generate infrasound that affects passenger dreams; the ark's plants lean toward the planet as they would toward light; the spiritual thread that began at the Moon reaches a quiet peak here before the void
+
+---
+
+---
+
+> **Note:** Stages 10 and beyond are work in progress — descriptions are placeholders and need to be expanded with the same level of detail as stages 1–9.
 
 ---
 
