@@ -85,6 +85,8 @@ Taking this further: **the signal has no origin**. It always existed because the
 
 The alien encounter gains a new layer: their records of the signal may predate Earth's biosphere. A detail that lands as quiet wonder.
 
+This also grounds a proposed failure mechanic: if the player falls too far behind to reach the finale and send the signal, the causal loop can't close — space-time breaks and they loop back to the beginning of the stage. The universe correcting a timeline where the signal was never sent. See Gameplay Specification for detail.
+
 ---
 
 ## Narrative Delivery Principle
@@ -280,3 +282,6 @@ The living ark touches down. It is not a spacecraft that lands — it is a livin
 - Exact passenger lines for each stage of the signal thread
 - Whether the aliens explicitly broke their own loop or not
 - Stages 10–18 narrative texture — all stages now have signal thread notes but most need the same scene-setting prose as stages 1–9
+- **Who is the player?** What is their role and identity — are they a captain, an AI, the ship itself, something else? How are they related to the human passengers, and how does that relationship evolve as the ark transforms from machine to living thing?
+- **Generational voyage:** the journey spans far more than a human lifetime — there should be multiple generations born, living, and dying aboard. How is this represented? Does the player watch generations pass? Do passengers age visibly? Is generational continuity part of the emotional arc?
+- **Player and time scale:** years or thousands of years pass during the voyage. How does the player experience this? Options include hibernation between active phases, an in-game time-acceleration mechanic, the player being something non-human that doesn't age (the ship's AI, the ecosystem itself), or simply abstracting time away so stages feel like chapters rather than literal durations.

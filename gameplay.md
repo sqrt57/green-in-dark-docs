@@ -32,6 +32,19 @@ Minimal for game #1. Maybe one small random event (a windfall, a setback) every 
 
 **Clear finale** recommended for game #1. Ends with a satisfying surprise, leaves players wanting more. Endless games are harder to pace and easier to abandon.
 
+### Time Loop Failure State (proposed idea)
+
+A way to fail without dying. If the player falls so far behind — ecosystem collapsed, unable to generate the resources needed to reach the finale and send the signal — space-time starts to break. The causal loop requires the signal to be sent; if it can't be, the timeline unravels. The player loops back to the beginning of the current stage.
+
+- **Not permadeath.** Progress within the stage is lost, but knowledge isn't — the player knows what went wrong.
+- **Slow before the loop.** The break should be visible in advance: a "timeline stability" metric degrading, passenger unease, the signal indicator flickering. The loop is a last resort, not a surprise.
+- **Fits the black hole stage naturally.** Time dilation already makes that stage feel unstable; a loop there has the most narrative logic.
+- **Ties to the bootstrap paradox.** The signal *must* be sent — it always was. A timeline where it isn't can't exist. The loop is the universe correcting itself.
+
+Open question: should the loop be stage-scoped (restart the current stage) or section-scoped (restart a group of stages)?
+
+---
+
 ### The Tuning Finale
 
 The finale is not passive. The player must tune the emitted signal — the one meaningful manual action at the very end of an otherwise idle game.
